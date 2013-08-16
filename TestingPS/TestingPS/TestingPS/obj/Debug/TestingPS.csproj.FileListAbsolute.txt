@@ -1,0 +1,7 @@
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\bin\TestingPS.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\bin\TestingPS.pdb
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\bin\EntityFramework.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\bin\EntityFramework.xml
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\obj\Debug\TestingPS.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingPS\TestingPS\TestingPS\obj\Debug\TestingPS.pdb

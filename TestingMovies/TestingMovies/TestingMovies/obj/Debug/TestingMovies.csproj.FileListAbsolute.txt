@@ -1,0 +1,7 @@
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\bin\TestingMovies.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\bin\TestingMovies.pdb
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\bin\EntityFramework.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\bin\EntityFramework.xml
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\obj\Debug\TestingMovies.dll
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\TestingMovies\TestingMovies\TestingMovies\obj\Debug\TestingMovies.pdb

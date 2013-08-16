@@ -1,0 +1,5 @@
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\jltrinid\Documents\Workspace\Git\asp.net\FizzBuzz\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb

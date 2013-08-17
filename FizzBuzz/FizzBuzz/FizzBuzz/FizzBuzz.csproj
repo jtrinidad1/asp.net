@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Countdown.cs" />
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="Guess.cs" />
     <Compile Include="Reverse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

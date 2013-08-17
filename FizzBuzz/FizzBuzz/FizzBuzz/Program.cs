@@ -4,7 +4,7 @@
  *                  Application ideas come from here: http://blog.craigtp.co.uk/post/Alternative-FizzBuzz-style-Interview-Questions.aspx
  *Author:           Juan Trinidad Jr
  *Date Created:     8/15/2013
- *Last Modified:    8/15/2013
+ *Last Modified:    8/16/2013
  * */
 using System;
 using System.Collections.Generic;
@@ -24,6 +24,7 @@ namespace FizzBuzz
             Console.WriteLine("2. Reverse - Input a string.  Reverse the input string - by letter.\n");
             Console.WriteLine("3. Reverse Sentence - Input a string.  Reverse the input string - by word.\n");
             Console.WriteLine("4. Countdown - Input an integer.  Countdown to 0.\n");
+            Console.WriteLine("5. Guess - Generates a random non-negative integer.  You have to guess it.\n");
             Console.Write("Option: ");
             entry = Console.ReadLine();
             switch (entry)
@@ -61,6 +62,10 @@ namespace FizzBuzz
                     break;
                 case "exit":
                     break;
+                case "5":
+                    Guess.RunGuess();
+                    Main();
+                    break;
                 default:
                     WrongAnswer();
                     Main();
@@ -68,7 +73,7 @@ namespace FizzBuzz
             }
         }
 
-        static void WrongAnswer()
+        public static void WrongAnswer()
         {
             Console.WriteLine("Please enter a valid response.\n");
         }
